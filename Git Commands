@@ -1,0 +1,59 @@
+SETUP & CONFIGURATION
+
+git init - initialize a new Git repository
+
+git clone - clone a repository into a new directory
+
+git config - get and set repository or global options
+
+git help - display help information about git
+
+BASIC SNAPSHOTTING
+
+git add - add file contents to the staging area
+
+git status - shows working tree status
+
+git commit - record changes to the repository
+
+git reset - reset current HEAD to specified state
+
+git rm - remove files from working tree & index
+
+git mv - move or rename a file, directory or symlink
+
+git ls-files - shows staging files.
+
+Branching & Merging
+
+git branch - list, create, or delete branches
+
+git checkout - switch branches or restore files
+
+git merge - join two or more development histories
+
+git rebase - reapply commits on top of another base tip
+
+git tag - create, list, delete or verify tags
+
+git stash - stash changes in a dirty working directory
+
+Sharing & Updating
+
+git fetch - download objects & refs from repo
+
+git pull - fetch & integrate with another repo
+
+git push - update remote refs & objects
+
+git remote - manage set of tracked repos
+
+Inspection & Comparison
+
+git log - show commit logs
+
+git diff - show changes b/w commits, commit & tree
+
+git show - show various types of objects/files in committed area
+
+git blame - show who changed what line in a file.
